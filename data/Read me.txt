@@ -1,5 +1,3 @@
-从protein2ipr.txt提取蛋白质id和ipr的关系
-res文件是蛋白质对应的IPR，fin文件是每个蛋白质对应的ipr总和
-通过程序domain2vec生成ipr词向量，
-data_350是我们加上蛋白质标签后的文件，可以在meka上直接输入
-整个程序是12-18
+The bianqian file is a type of 2729 proteins
+The data_350.csv file is a 350-dimensional vector of 2729 proteins
+The data_350.arff file is the input file of Meka

@@ -2,7 +2,7 @@
 Function: Identification of membrane protein types is an essential problem in cells biology. The iMPT-FDNPL is a powerful multi-label classifier, which can assign multiple types to given proteins. The proteins are represented by features derived from their functional domain information via a natural language processing approach, word2vector. RAndom k-labELsets with random forest as the base classifier adopted such features to construct iMPT-FDNPL. The ten-fold cross-validation results indicate that accuracy and exact matching 0.853 and 0.851, respectively. Such classifier is superior to other classifiers using features derived from different properties of proteins via various methods.
 
 
-![111](https://github.com/mufei111/iMPT-FDNPL/blob/master/1.png?raw=true)
+![image](https://github.com/mufei111/iMPT-FDNPL/blob/master/1.png)
 
 # Meka command
 Suppose the Meka installation root directory is "E:\meka1.9.2".

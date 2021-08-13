@@ -5,7 +5,6 @@ Function: Identification of membrane protein types is an essential problem in ce
 
 # Meka command
 Suppose the Meka installation root directory is "E:\meka1.9.2".
-
 1. Ten-fold cross-validaion command for Meka:
  
 cd E:\meka1.9.2

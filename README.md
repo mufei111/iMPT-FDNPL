@@ -7,7 +7,7 @@ Function: Identification of membrane protein types is an essential problem in ce
 Suppose the Meka installation root directory is "E:\meka1.9.2".
 
 1. Ten-fold cross-validaion command for Meka:
-2. 
+ 
 cd E:\meka1.9.2
 
 E:\meka1.9.2> java -cp "./lib/*" meka.classifiers.multilabel.RAkEL -M 10 -k 5 -P 0 -N 0 -S 0 -verbosity 5 -t data\data_350.arff -x 10 -W weka.classifiers.trees.RandomForest -- -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1 > D:\result_350\Rakel_ranforest_k5_i100.txt

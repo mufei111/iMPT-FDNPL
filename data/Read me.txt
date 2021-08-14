@@ -1,3 +1,3 @@
-The label file is a type of 2729 proteins
-The data_350.csv file is a 350-dimensional vector of 2729 proteins
+label.csv:labels (types) of 2729 membrance proteins
+The data_350.csv 350-dimensional vectors of 2729 proteins
 The data_350.arff file is the input file of Meka

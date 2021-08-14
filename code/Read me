@@ -1,2 +1,4 @@
-The id ipr file is the ipr data corresponding to the protein id
-word2vector input is the input file of word2vector
+ipr_350:350-dimensional data of ipr
+word2vector.py: a program that generates ipr data
+word2vector input.txt:input file of the program, which stores the relationship between Uniport id and ipr
+

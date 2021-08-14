@@ -1,4 +1,4 @@
-ipr_350:350-dimensional data of ipr
-word2vector.py: a program that generates ipr data
-word2vector input.txt:input file of the program, which stores the relationship between Uniport id and ipr
+IPR_350.zip/IPR_350.z01: 350-Dimension vector of each domain (IPR ID)
 
+word2vector.py: the program of word2vector method
+word2vector input.txt: input file of the word2vector program
